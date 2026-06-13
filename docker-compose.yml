@@ -1,10 +1,7 @@
 services:
   php-api:
     build: .
-    networks:
-      - mysql_net
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
 
-networks:
-  mysql_net:
-    external: true
-    name: inventario_net
+networks: {}

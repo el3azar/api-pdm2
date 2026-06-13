@@ -11,7 +11,7 @@
 //define('DB_NAME',   'inventario_gpo02');
 
 // ── DOKPLOY (producción) ─────────────────────────────────────
-define('DB_HOST',   'inventario-gpo02-phpmyadmin-wzojwe-db-1');
+define('DB_HOST',   'host.docker.internal');
 define('DB_USER',   'root');
 define('DB_PASS',   'nDPNrYGkbNJcMuSyMYuO');
 define('DB_NAME',   'inventario_gpo02');
