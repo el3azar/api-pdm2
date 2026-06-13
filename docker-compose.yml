@@ -7,4 +7,4 @@ services:
 networks:
   mysql_net:
     external: true
-    name: inventario-gpo02-phpmyadmin-wzojwe_default
+    name: inventario_net
