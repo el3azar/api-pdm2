@@ -12,8 +12,8 @@
 
 // ── DOKPLOY (producción) ─────────────────────────────────────
 define('DB_HOST',   'db');
-define('DB_USER',   'MySQL');
-define('DB_PASS',   'auZQX5mUZ1k9HzmrrzMi');
+define('DB_USER',   'root');
+define('DB_PASS',   'nDPNrYGkbNJcMuSyMYuO');
 define('DB_NAME',   'inventario_gpo02');
 
 define('DB_CHARSET','utf8mb4');
