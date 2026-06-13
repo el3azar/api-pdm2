@@ -1,0 +1,10 @@
+services:
+  php-api:
+    build: .
+    networks:
+      - mysql_net
+
+networks:
+  mysql_net:
+    external: true
+    name: inventario-gpo02-phpmyadmin-wzojwe_default

@@ -11,7 +11,7 @@
 //define('DB_NAME',   'inventario_gpo02');
 
 // ── DOKPLOY (producción) ─────────────────────────────────────
-define('DB_HOST',   'inventario-gpo02-phpmyadmin-wzojwe-db-1');
+define('DB_HOST',   'db');
 define('DB_USER',   'MySQL');
 define('DB_PASS',   'auZQX5mUZ1k9HzmrrzMi');
 define('DB_NAME',   'inventario_gpo02');
